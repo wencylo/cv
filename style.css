@@ -1,0 +1,166 @@
+.top{
+background-color:#B8FFF9;
+padding-top:100px;}
+.daohang{
+background-color:#B8FFF9;
+position:fixed;
+width:100%;
+text-align:right;
+height:12%;
+}
+.项目示例{
+padding:50px;
+display:inline-block;
+height:auto;
+}
+.项目示例:hover{
+background-color:#42C2FF;
+}
+.主页{
+padding:50px;
+display:inline-block;
+height:auto;
+}
+.主页:hover{
+background-color:#42C2FF;
+}
+
+body{
+margin:0;
+color:#40514E;
+text-align:center;
+}
+.导航图标{width:6%;
+float:left;
+padding:10px 0 10px 50px;
+height:auto;
+}
+h1{
+margin:50px auto 0 auto;
+font-family:'Sacramento', cursive;
+font-size:6em;
+color:#66BFBF;
+}
+p{line-height:2;
+}
+.info{
+color:#66BFBF;
+font-size:1.5em;
+font-weight:normal;
+line-height:2;
+}
+h3{color:#66BFBF;
+}
+.profile{
+background-color:#EFFFFD;
+}
+.middle-container{
+background-color:#EFFFFD;
+padding-bottom:50px;
+}
+h2{
+color:#11999E;
+padding:10px;}
+
+.bottom-container{
+background-color:#85F4FF;
+margin:0;
+padding:20px 0 20px;
+}
+.top-could{
+position:absolute;
+left:70%;
+top:15%;
+}
+.bottom-could{
+position:absolute;
+left:20%;
+}
+
+.my_profile{
+width:15%;
+height:10%;
+margin-top:5%;}
+.skill-row1{
+width:50%;
+margin:100px auto 150px auto;
+text-align:left;
+line-height:2;
+}
+.skill-row2{
+width:50%;
+margin:100px auto 100px auto;
+text-align:right;
+line-height:2;
+}
+.file{
+width:25%;
+float:left;
+margin-right:40px;
+}
+.data{
+width:25%;
+float:right;
+margin-left:40px;}
+ hr{
+        width:5%;
+        border-style: dotted none none;
+        border-color:#EAF6F6;
+        border-width:5px;
+        margin:100px auto;
+
+        }
+ .intro{width:35%;
+ margin:auto;
+ }
+.contact_message{width:40%;margin:40px auto;}
+
+.myButton {
+	box-shadow: -12px 4px 14px -7px #9fb4f2;
+	background:linear-gradient(to bottom, #11cdd4 5%, #476e9e 100%);
+	background-color:#11cdd4;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:15px 27px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #11cdd4 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+color:#EAF6F6}
+.工作介绍{
+width:500px;
+}
+
+.middle_2{
+background-color:#FF6B6B;
+margin-bottom:auto;
+width:auto;
+padding-bottom:50px;
+}
+.middle_3{
+background-color:#FFD93D;
+padding-bottom:50px;
+}
+.middle_4{
+background-color:#6BCB77;
+padding-bottom:50px;
+}
+.contact-me2{
+margin:30px;
+}
+.ppt{margin:10px auto;
+width:80%;
+}
