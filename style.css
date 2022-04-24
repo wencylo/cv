@@ -11,7 +11,7 @@ height:10%;
 .项目示例{
 padding:50px;
 display:inline-block;
-height:auto;
+height:10%;
 }
 .项目示例:hover{
 background-color:#42C2FF;
@@ -19,7 +19,7 @@ background-color:#42C2FF;
 .主页{
 padding:50px;
 display:inline-block;
-height:auto;
+height:10%;
 }
 .主页:hover{
 background-color:#42C2FF;
